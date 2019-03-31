@@ -81,7 +81,7 @@ def main():
 		
 		response = requests.post(URL + '/formResponse', data=form_data, headers=USER_AGENT)
 		print(response.content)
-		time.sleep(random.choice(range(1, 200)))
+		time.sleep(0.2)
 		
 
 if __name__ == "__main__":
