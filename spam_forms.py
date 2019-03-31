@@ -6,8 +6,8 @@ import random
 import requests
 import time
 
-ID = '1FAIpQLSd6wfSOMJsuQzrEuH8Lz1OQ49djJU6Ua6Qt-LXkJ0_RZEeobw'
-ENTRIES = ['1461594992', '1602674151', '146215934']
+ID = '1FAIpQLSengcMmHrpyp3IRC3Aakt01ZjtRMwl9a9jDmrrdx-JVcTgvcg'
+ENTRIES = [765281025, 3221642, 2039417860]
 URL = 'https://docs.google.com/forms/d/e/{}'.format(ID)
 NUM_FILL_OUT = 100000
 
